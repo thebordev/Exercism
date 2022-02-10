@@ -8,6 +8,8 @@
     <file type="web" url="file://$PROJECT_DIR$/hello-world" />
     <file type="web" url="file://$PROJECT_DIR$/matrix" />
     <file type="web" url="file://$PROJECT_DIR$/scrabble-score" />
+    <file type="web" url="file://$PROJECT_DIR$/secret-handshake" />
+    <file type="web" url="file://$PROJECT_DIR$/triangle" />
     <file type="web" url="file://$PROJECT_DIR$/two-fer" />
   </component>
 </project>

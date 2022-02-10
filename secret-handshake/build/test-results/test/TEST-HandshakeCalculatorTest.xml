@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HandshakeCalculatorTest" tests="12" skipped="11" failures="0" errors="0" timestamp="2022-02-10T22:35:16" hostname="MacBookProMayber.local" time="0.025">
+  <properties/>
+  <testcase name="testReversingASingleActionYieldsTheSameAction" classname="HandshakeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThatInput1YieldsAWink" classname="HandshakeCalculatorTest" time="0.023"/>
+  <testcase name="testReversingNoActionsYieldsNoActions" classname="HandshakeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThatInput8YieldsAJump" classname="HandshakeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThatInput4YieldsACloseYourEyes" classname="HandshakeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputThatYieldsAllActions" classname="HandshakeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThatInput2YieldsADoubleBlink" classname="HandshakeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testInputThatYieldsAllActionsReversed" classname="HandshakeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAnInputThatYieldsTwoReversedActions" classname="HandshakeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAnInputThatYieldsTwoActions" classname="HandshakeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThatInputWithLower5BitsNotSetYieldsNoActions" classname="HandshakeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testThatInput0YieldsNoActions" classname="HandshakeCalculatorTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
