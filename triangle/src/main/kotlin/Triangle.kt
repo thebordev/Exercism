@@ -1,5 +1,4 @@
 class Triangle<out T : Number>(val a: T, val b: T, val c: T) {
-
     init {
         val lengthA = a.toDouble()
         val lengthB = b.toDouble()
