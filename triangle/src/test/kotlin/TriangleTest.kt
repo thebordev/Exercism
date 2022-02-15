@@ -4,7 +4,6 @@ import kotlin.test.assertFalse
 import kotlin.test.assertTrue
 
 class TriangleTest {
-
     @Test
     fun `equilateral - all sides are equal`() {
         assertTrue(Triangle(2, 2, 2).isEquilateral)
